@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🥕 *a former sociology student, current debugger of both society and software!* 🥕   
  
-🎓 Bachelor's degree in Sociology from the London School of Economics and Political Science  
+🎓 Bachelor's degree in Sociology - the London School of Economics and Political Science  
 📖 Current student at UPenn - Master of Computer and Information Technology  
 
 
